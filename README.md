@@ -76,7 +76,7 @@ Please note that this exhaustive game design document provides a comprehensive o
 
 ####################################
 
-Certainly! Here's an outline of the efforts needed to bring "Night City Ninjitsu" to iOS:
+Rough roadmap:
 
 1. **Platform Adaptation and Optimization**
    - Evaluate the game design and mechanics for compatibility with iOS devices.
