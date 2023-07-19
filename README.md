@@ -71,10 +71,7 @@ Project Timeline:
 - Production Phase: 12-18 months (Act One development, art asset creation, implementation of gameplay mechanics, integration of AI text-to-speech technologies, iterative playtesting)
 - Post-production Phase: 3-6 months (Act Two and Act Three development, polishing, bug fixing, optimization, monetization integration, final playtesting, submission to app stores)
 
-Please note that this exhaustive game design document provides a comprehensive overview of the key elements and features of "Night City Ninjitsu." Additional sections or details can be added based on specific requirements or aspects of the game.
-
-
-####################################
+######################################################################################################################################################
 
 Rough roadmap:
 
@@ -109,5 +106,4 @@ Rough roadmap:
    - Continuously optimize and improve the game based on player feedback and market trends.
    - Provide regular updates to fix bugs, introduce new features, and enhance the overall gameplay experience.
 
-Please note that the efforts mentioned above are generalized and can vary depending on the complexity of the game, team size, and specific requirements of the iOS platform. It's crucial to allocate sufficient time for each stage and adapt the process based on your team's capabilities and resources.
 
